@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_not_available">N/A</string>
+    <string name="text_name">Name</string>
+    <string name="text_birth_year">Birth Year</string>
+    <string name="text_gender">Gender</string>
+    <string name="text_height">Height</string>
+    <string name="text_mass">Mass</string>
+    <string name="text_eye_color">Eye Color</string>
+    <string name="text_hair_color">Hair Color</string>
+    <string name="text_unit_cm">%1$s cm</string>
+    <string name="text_unit_kg">%1$s kg</string>
+    <string name="text_star_wars_character_image">Star Wars Character Image</string>
+    <string name="text_character_details_title">Galactic Dossier</string>
+    <string name="text_empty_character_details">Character not found</string>
+    <string name="text_failed_to_load">Failed to load data</string>
+    <string name="text_retry">Retry</string>
+</resources>
